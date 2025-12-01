@@ -1,7 +1,8 @@
-torch
-torchvision
-transformers
-Pillow
 fastapi
 uvicorn
+pillow
+transformers
+torch
+torchvision
+ultralytics
 python-multipart
