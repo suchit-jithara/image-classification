@@ -1,0 +1,23 @@
+{
+  "Footwear": [
+    "running shoes",
+    "sneakers",
+    "formal shoes",
+    "sandals",
+    "sports shoes"
+  ],
+  "Electronics": [
+    "bluetooth earphones",
+    "mobile phone",
+    "laptop",
+    "smartwatch",
+    "television"
+  ],
+  "Beauty": [
+    "lipstick",
+    "shampoo",
+    "face cream",
+    "foundation",
+    "eyeliner"
+  ]
+}
